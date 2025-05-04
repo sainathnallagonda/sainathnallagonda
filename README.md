@@ -41,4 +41,4 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 - [Mobile](tel:+919493730370): +91-9493730370
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sainathnallagonda.sainathnallagonda)
+![Visitor Count](https://shields.io/badge/dynamic/json?url=https://api.github.com/repos/sainathnallagonda/sainathnallagonda&query=$.stargazers_count&suffix=visitors)
