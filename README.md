@@ -40,6 +40,5 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 - [Email](nallagondasainath@gmail.com)
 - [Mobile](tel:+919493730370): +91-9493730370
 
-
 ---
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sainathnallagonda.sainathnallagonda)
