@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 
 ####  Data Analysis Case Studies
 - [Social-Media-Impact-on-Workplace-Productivity](https://github.com/sainathnallagonda/social_media_vs_productivity) - Conducted trend analysis to explore the impact of social media usage on workplace productivity.
+- [Electric-Vehicle-Charging-Analysis](https://github.com/sainathnallagonda/Electric-Vehicle-Charging-Analysis) - Uncovered usage patterns and infrastructure insights from EV charging behavior across vehicle models and user types.
 - [Netflix Case Study](https://github.com/sainathnallagonda/Netflix_Case_Study-) - Analyzed content trends, genre popularity, and release patterns using Python
 - [Delhivery Case Study](https://github.com/sainathnallagonda/Delhivery_Case_study) - Logistics optimization and delivery performance analysis
 - [Aerofit Case Study](https://github.com/sainathnallagonda/Aerofit-Case-Study) - Customer segmentation for targeted marketing
